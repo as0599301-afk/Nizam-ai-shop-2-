@@ -1,0 +1,6 @@
+{
+  "name": "Nizam AI Shop 2",
+  "description": "Retail shop management for Nizam AI Shop 2 with inventory tracking, orders, announcements, and customer shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

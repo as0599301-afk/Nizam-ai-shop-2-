@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shopping Bag Handles -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,42 C44,30 64,30 64,42" />
+
+    <!-- Shopping Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,42 L74,42 C76.2,42 78,43.8 77.8,46 L74.8,77 C74.6,79.2 72.8,81 70.6,81 L37.4,81 C35.2,81 33.4,79.2 33.2,77 L30.2,46 C30,43.8 31.8,42 34,42 Z" />
+
+    <!-- Bag Front Fold / Shadow Detail -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M37.4,81 L70.6,81 C72.8,81 74.6,79.2 74.8,77 L76,64 L32,64 L33.2,77 C33.4,79.2 35.2,81 37.4,81 Z" />
+
+    <!-- Music Note & Sound Wave Symbol on Bag -->
+    <!-- Musical Note Stem and Head -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M52,50 L59,48 L59,62 C58.2,61.4 56.8,61 55.5,61 C53,61 51,62.3 51,64 C51,65.7 53,67 55.5,67 C57.8,67 59.7,65.8 60,64.2 L60.2,46.5 L51.5,48.5 L51.5,57 C50.7,56.4 49.3,56 48,56 C45.5,56 43.5,57.3 43.5,59 C43.5,60.7 45.5,62 48,62 C50.3,62 52.2,60.8 52.5,59.2 Z" />
+
+    <!-- AI Sparkle Badge (Top-Right of Bag) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M73,35 C73,38 76,38 76,38 C76,38 73,38 73,41 C73,38 70,38 70,38 C70,38 73,38 73,35 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M79,43 C79,45 81,45 81,45 C81,45 79,45 79,47 C79,45 77,45 77,45 C77,45 79,45 79,43 Z" />
+</vector>
